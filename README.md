@@ -11,14 +11,18 @@ vagrant up
 
 ### Add the host 
 ```
-# Linux: /etc/hosts, Windows: C:\Windows\System32\Drivers\etc\hosts
+# Linux: /etc/hosts, Windows: 
+# C:\Windows\System32\Drivers\etc\hosts
 192.168.56.210 mage.dev
 ```
 
 ### Access
 To access to the frontend: http://mage.dev
+
 To access to the backend:  http://mage.dev/admin
 
 Admin login:
+
 user: admin
+
 password: admin123
