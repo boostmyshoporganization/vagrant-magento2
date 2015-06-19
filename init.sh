@@ -14,7 +14,7 @@ apt-key add dotdeb.gpg
 # PHP and NGinx installation
 apt-get -y update
 apt-get -y install git vim
-apt-get install -y --force-yes php5 php5-apcu php5-cli php5-fpm php5-mysqlnd php5-mcrypt php5-gd php5-curl php5-intl
+apt-get install -y --force-yes php5 php5-apcu php5-cli php5-fpm php5-mysqlnd php5-mcrypt php5-gd php5-curl php5-intl php5-xsl
 apt-get install -y --force-yes nginx
 
 # MySQL installation
