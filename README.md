@@ -29,7 +29,7 @@ password: admin123
 
 ### Box Configuration
 
-- NGinx
+- NGinx 1.8
 - PHP 5.6
 - MySQL 5.6
 - Composer
