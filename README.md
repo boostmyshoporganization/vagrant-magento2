@@ -1,4 +1,4 @@
-# Magento2
+# Magento 2
 
 ## Init the virtual machine
 
@@ -26,3 +26,10 @@ Admin login:
 user: admin
 
 password: admin123
+
+### Box Configuration
+
+- NGinx
+- PHP 5.6
+- MySQL 5.6
+- Composer
